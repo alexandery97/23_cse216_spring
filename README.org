@@ -1,56 +1,73 @@
-#+TITLE:  CSE215: Foundations of Computer Science (State University of New York, Korea, Spring 2023)
+#+TITLE:  CSE216 : Programming Abstractions (State University of New York, Korea, Spring 2023)
 #+HTML_HEAD_EXTRA: <style>span[class^="section-number-"]:after { content: '.'; }</style>
 
 
 
 * Course overview
-This course is  offered by the CS Department of SUNY Korea. In this course, we will learn the part of mathematics, also know as discrete math,  which is required in well understanding computer science. The course  covers the following topics:  logic (propositional logic and predicate logic), number theory, proof techniques, sequences, recursion, functions, relations, and sets.
+This course is  offered by the CS Department of SUNY Korea. In this course, we will learn
+Intermediate-level programming concepts and paradigms, including functional programming, object-orientation, basics of type systems, memory management, program and data abstractions, parameter passing, modularity, version control, and parallel programming.
+
 
 This repository is publicly accessible and hosts  courseware that will be incrementally added along the semester.  We will adapt the courseware from the ones used at Stony Brook University.
 
 * Course objectives
-The students should gain the following knowledge and skills:
-- An ability to construct truth tables for various purposes, for example, checking  if an argument is valid or if two propositions are equivalent. 
-- An ability to argue with rigor and prove some theorems.
-- An ability to understand the mathematical concepts of sequences, functions, relations.
+- An understanding of programming paradigms and tradeoffs.
+
+- An understanding of functional techniques to identify, formulate and solve problems.
+
+- An ability to apply techniques of object-oriented programming in the context of software development.
 
 
 
 * Prerequisites
-AMS 151 or MAT 125 or MAT 131
-* Textbook
-Discrete Mathematics: Introduction to Mathematical Reasoning. Susanna S. Epp. 1st Edition
+C or higher in CSE 214; CSE major
 
+* Reference Book(s) and additional reading
+
+There is no single textbook for this course, but we will mostly be covering conceptual material from
+
+Scott, Michael L., Programming Language Pragmatics. Morgan Kaufmann; 3rd Edition (2009).
+
+For details pertaining to specific programming languages, the recommended material will mostly be from the following:
+
+Python tutorial: https://docs.python.org/3/tutorial/
+
+OCaml learning material: https://ocaml.org/learn/
 
 
 * Schedule 
 
-Lectures: Monday and Wednesday 10h30am - 11h50am, at C105 
+Lectures: Monday and Wednesday 2:00 - 3:20pm, at B203 
 
-Recitation: Wednesday 5pm - 5h50pm, at C105
+Recitation: Wednesday 3:30 - 4:25pm, at B203
 
-Office hours: Monday 4pm - 5pm  and Wednesday 7h00pm - 8h00pm, at B424
+Office hours: Monday  5:00 - 6:00pm  and Wednesday 8:00 - 9:00pm, at B424
 
 Midterm exams: TBA
 
-Final exam: Wednesday, June 14, 9h-11h30.  
+Final exam: Monday, June 12, 12:30-3:00pm.  
 
 TA office hours: TBA
 
 
-Zoom just in case: 
-https://stonybrook.zoom.us/j/93553126576?pwd=aDBQN1M2V3BUanpHRUtYd0VZbm5YQT09
+Zoom just in case:
+https://stonybrook.zoom.us/j/99671076796?pwd=TGFuZ1lzSXpnSWlpMDB2a2tCRmozUT09
+
 
 Overall Schedule:
 
-- Propositional logic
-- Predicate logic
-- Proof techniques
+- Programming paradigms
+  
+-  Lambda calculus 
+
+- Functional programming with OCaml
+
 - Midterm 1
-- Sequences 
-- Sets
-- Midterm 2
-- Function
+    
+- Types and type systems
+
+- ... TBA
+
 - Final exam
 
 
@@ -85,7 +102,7 @@ Zhoulai Fu <zhoulai dot fu at sunykorea.ac.kr>  or  <zhoulai dot fu at stonybroo
 
 
 * Teaching assistant
-CheaYoung Park <cheayoung dot park@ at stonybrook.edu>
+TBA 
 
 
 

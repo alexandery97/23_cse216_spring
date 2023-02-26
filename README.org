@@ -1,1 +1,106 @@
-# 23_cse216_spring
+#+TITLE:  CSE215: Foundations of Computer Science (State University of New York, Korea, Spring 2023)
+#+HTML_HEAD_EXTRA: <style>span[class^="section-number-"]:after { content: '.'; }</style>
+
+
+
+* Course overview
+This course is  offered by the CS Department of SUNY Korea. In this course, we will learn the part of mathematics, also know as discrete math,  which is required in well understanding computer science. The course  covers the following topics:  logic (propositional logic and predicate logic), number theory, proof techniques, sequences, recursion, functions, relations, and sets.
+
+This repository is publicly accessible and hosts  courseware that will be incrementally added along the semester.  We will adapt the courseware from the ones used at Stony Brook University.
+
+* Course objectives
+The students should gain the following knowledge and skills:
+- An ability to construct truth tables for various purposes, for example, checking  if an argument is valid or if two propositions are equivalent. 
+- An ability to argue with rigor and prove some theorems.
+- An ability to understand the mathematical concepts of sequences, functions, relations.
+
+
+
+* Prerequisites
+AMS 151 or MAT 125 or MAT 131
+* Textbook
+Discrete Mathematics: Introduction to Mathematical Reasoning. Susanna S. Epp. 1st Edition
+
+
+
+* Schedule 
+
+Lectures: Monday and Wednesday 10h30am - 11h50am, at C105 
+
+Recitation: Wednesday 5pm - 5h50pm, at C105
+
+Office hours: Monday 4pm - 5pm  and Wednesday 7h00pm - 8h00pm, at B424
+
+Midterm exams: TBA
+
+Final exam: Wednesday, June 14, 9h-11h30.  
+
+TA office hours: TBA
+
+
+Zoom just in case: 
+https://stonybrook.zoom.us/j/93553126576?pwd=aDBQN1M2V3BUanpHRUtYd0VZbm5YQT09
+
+Overall Schedule:
+
+- Propositional logic
+- Predicate logic
+- Proof techniques
+- Midterm 1
+- Sequences 
+- Sets
+- Midterm 2
+- Function
+- Final exam
+
+
+Detailed Schedule to be updated on a weeekly
+
+Week01 (23-02-27)
+- Monday: Course Overview
+- Wednesday:  No class
+
+
+
+
+
+
+    
+
+
+* Grading
+- Attendance: 5%
+- take-home assignment: 25%
+- In-class assignment: 10%  
+- Midterms: 30%
+- Final exam: 30%
+
+
+Late homework will generally not be accepted. Special requests must be presented to the course instructor with all supporting documentation as soon as possible. Once the solutions to the homework exercises are publicized, there shall be no ways to accept assignments, whatever the circumstance. 
+
+
+
+* Instructor 
+Zhoulai Fu <zhoulai dot fu at sunykorea.ac.kr>  or  <zhoulai dot fu at stonybrook.edu>
+
+
+* Teaching assistant
+CheaYoung Park <cheayoung dot park@ at stonybrook.edu>
+
+
+
+* Disability Support Services (DSS) Statement
+
+If you have a physical, psychological, medical or learning disability that may impact your course work, please contact  One-Stop Service Center, Academic Building A201, (82) 32-626-1117. They will determine with you what accommodations, if any, are necessary and appropriate. All information and documentation is confidential.
+
+ Students who require assistance during emergency evacuation are encouraged to discuss their needs with instructors and the One-Stop Service Center.
+ 
+ 
+* Academic integrity
+
+Each student must pursue his or her academic goals honestly and be personally accountable for all submitted work. Representing another person's work as your own is always wrong. Faculty members are required to report any suspected instances of academic dishonesty to the Academic Judiciary Committee or the Department of Academic Affairs, Campus Building A, Room 201, (032) 626-1121.
+
+* Critical incident management
+
+SUNY Korea expects students to respect the rights,
+privileges, and property of other people. Faculty are required to report to the Department of Academic Affairs any disruptive behavior that interrupts their ability to teach, compromises the safety of the learning environment, or inhibits students' ability to learn.

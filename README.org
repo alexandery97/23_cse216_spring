@@ -34,6 +34,8 @@ Python tutorial: https://docs.python.org/3/tutorial/
 
 OCaml learning material: https://ocaml.org/learn/
 
+Stony Brook University's CSE216 course material: https://sites.google.com/cs.stonybrook.edu/cse216/lectures?authuser=0
+
 * Instructor 
 Zhoulai Fu <zhoulai dot fu at sunykorea.ac.kr>  or  <zhoulai dot fu at stonybrook.edu>
 
@@ -44,7 +46,7 @@ Zhoulai Fu <zhoulai dot fu at sunykorea.ac.kr>  or  <zhoulai dot fu at stonybroo
 -  Young Won Choi <ywckok at gmail.com>
 
 
-* Schedule 
+* Overall Schedule 
 
 Lectures: Monday and Wednesday 2:00 - 3:20pm, at B203 
 
@@ -60,34 +62,36 @@ TA office hours:
 - With Gyuri Kim: Monday 4:00-6:00pm, Tuesday and Thursday 6:30-9:30pm
 - with Young Won Choi: Tuesday and Thursday 09:00 - 11:00 AM.   
 
-Zoom just in case:
+* Zoom just in case
 https://stonybrook.zoom.us/j/99671076796?pwd=TGFuZ1lzSXpnSWlpMDB2a2tCRmozUT09
 
 
-Overall Schedule:
-
-- Programming paradigms
-  
--  Lambda calculus 
-
-- Functional programming with OCaml
-
-- Midterm 1
-    
-- Types and type systems
-
-- ... TBA
-
-- Final exam
-
-
-Detailed Schedule to be updated on a weeekly
+* Tentative Course Schedule 
 
 Week01 (23-02-27)
-- Monday: Course Overview
+- Monday: Course overview
 - Wednesday:  No class
 
+Week02 (23-03-06)
+- Monday: Programming paraadigms
+- Wednesday: Syntax, Semantics, Lambda calculus 1
+- Wednesday recitation
 
+
+Week03 (23-03-13)
+- Monday:  Lambda calculus 2 
+- Wednesday:  Lambda calculus 3
+- Wednesday recitation
+
+Week04 (23-03-20)
+- Monday:  Ocaml 1 
+- Wednesday:  Ocaml 2 
+- Wednesday recitation
+
+Week05 (23-03-27)
+- Monday:  Ocaml 3 
+- Wednesday:  Ocaml 4 
+- Wednesday recitation
 
 
 

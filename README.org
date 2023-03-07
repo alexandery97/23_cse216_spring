@@ -74,13 +74,13 @@ Week01 (23-02-27)
 
 Week02 (23-03-06)
 - Monday: Programming paraadigms
-- Wednesday: Syntax, Semantics, Lambda calculus 1
+- Wednesday: Parsing
 - Wednesday recitation
 
 
 Week03 (23-03-13)
-- Monday:  Lambda calculus 2 
-- Wednesday:  Lambda calculus 3
+- Monday:  Lambda calculus 1 
+- Wednesday:  Lambda calculus 2
 - Wednesday recitation
 
 Week04 (23-03-20)
